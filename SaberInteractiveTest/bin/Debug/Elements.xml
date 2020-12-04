@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DOUBLY_LINKED_LIST>
+  <ELEMENT_0 MyData="Константин" PreviousData="null" NextData="Илья" />
+  <ELEMENT_1 MyData="Илья" PreviousData="Константин" NextData="Андрей" />
+  <ELEMENT_2 MyData="Андрей" PreviousData="Илья" NextData="null" />
+</DOUBLY_LINKED_LIST>

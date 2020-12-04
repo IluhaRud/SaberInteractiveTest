@@ -1,0 +1,7 @@
+D:\Repos\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\SaberInteractiveTest.exe.config
+D:\Repos\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\SaberInteractiveTest.exe
+D:\Repos\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\SaberInteractiveTest.pdb
+D:\Repos\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\SaberInteractiveTest.csprojAssemblyReference.cache
+D:\Repos\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\SaberInteractiveTest.csproj.CoreCompileInputs.cache
+D:\Repos\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\SaberInteractiveTest.exe
+D:\Repos\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\SaberInteractiveTest.pdb
